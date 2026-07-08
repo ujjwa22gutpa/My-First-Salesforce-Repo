@@ -8,6 +8,5 @@ public with sharing class apexUseCaseOne {
         if(con.size() > 0){
               insert con;
         }
-       
     }
 }
